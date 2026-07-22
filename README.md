@@ -17,137 +17,156 @@
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>👨‍💻 About Me</h3>
-      <p>I'm a <strong>B.Tech CSE (Artificial Intelligence)</strong> student passionate about building real-world AI products rather than just models.</p>
-      <p>My interests span the complete AI engineering stack — from training and fine-tuning language models to deploying scalable AI applications with modern backend technologies.</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🚀 Current Focus</h3>
-      <ul>
-        <li>🤖 Agentic AI Systems</li>
-        <li>🧠 Large Language Models (LLMs)</li>
-        <li>🔍 Retrieval-Augmented Generation (RAG)</li>
-        <li>📚 Fine-Tuning & PEFT</li>
-        <li>⚡ FastAPI & AI APIs</li>
-        <li>☁️ Docker • Kubernetes • AWS</li>
-        <li>🔥 Production-ready AI Applications</li>
-      </ul>
-    </td>
-  </tr>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><h3>👨‍💻 About Me</h3></th>
+      <th width="50%" align="center"><h3>🚀 Current Focus</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" align="left">
+        <p>I'm a <strong>B.Tech CSE (Artificial Intelligence)</strong> student passionate about building real-world AI products rather than just models.</p>
+        <p>My interests span the complete AI engineering stack — from training and fine-tuning language models to deploying scalable AI applications with modern backend technologies.</p>
+      </td>
+      <td valign="top" align="center">
+        <br>
+        🤖 Agentic AI Systems<br>
+        🧠 Large Language Models (LLMs)<br>
+        🔍 Retrieval-Augmented Generation (RAG)<br>
+        📚 Fine-Tuning & PEFT<br>
+        ⚡ FastAPI & AI APIs<br>
+        ☁️ Docker • Kubernetes • AWS<br>
+        🔥 Production-ready AI Applications
+        <br><br>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-<h3>🛠 Tech Stack</h3>
+<h3 align="center">🛠 Tech Stack</h3>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🤖 AI / Machine Learning</h4>
-      <ul>
-        <li>Python</li>
-        <li>PyTorch</li>
-        <li>Hugging Face</li>
-        <li>LangChain</li>
-        <li>LangGraph</li>
-        <li>OpenAI API</li>
-        <li>NumPy</li>
-        <li>Pandas</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4>🌐 Full Stack Development</h4>
-      <ul>
-        <li>React</li>
-        <li>Next.js</li>
-        <li>TypeScript</li>
-        <li>Tailwind CSS</li>
-        <li>Node.js</li>
-        <li>Express.js</li>
-        <li>FastAPI</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>🗄 Databases</h4>
-      <ul>
-        <li>PostgreSQL</li>
-        <li>MongoDB</li>
-        <li>MySQL</li>
-        <li>Redis</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h4>☁️ DevOps & Cloud</h4>
-      <ul>
-        <li>Docker</li>
-        <li>Kubernetes</li>
-        <li>AWS</li>
-        <li>Git</li>
-        <li>GitHub Actions</li>
-        <li>Postman</li>
-      </ul>
-    </td>
-  </tr>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th width="25%" align="center"><h4>🤖 AI / Machine Learning</h4></th>
+      <th width="25%" align="center"><h4>🌐 Full Stack Development</h4></th>
+      <th width="25%" align="center"><h4>🗄 Databases</h4></th>
+      <th width="25%" align="center"><h4>☁️ DevOps & Cloud</h4></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" align="center">
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br>
+        <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" /><br>
+        <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" /><br>
+        <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" alt="LangChain" /><br>
+        <img src="https://img.shields.io/badge/LangGraph-000000?style=flat-square" alt="LangGraph" /><br>
+        <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI API" /><br>
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /><br>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+        <br><br>
+      </td>
+      <td valign="top" align="center">
+        <br>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /><br>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /><br>
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /><br>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /><br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /><br>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" /><br>
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+        <br><br>
+      </td>
+      <td valign="top" align="center">
+        <br>
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br>
+        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /><br>
+        <img src="https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /><br>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+        <br><br>
+      </td>
+      <td valign="top" align="center">
+        <br>
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br>
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /><br>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" /><br>
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /><br>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /><br>
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+        <br><br>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>📂 Featured Projects</h3>
-      <ul>
-        <li>⭐ AI Career Guidance Platform</li>
-        <li>⭐ JEE College Predictor</li>
-        <li>⭐ Retrieval-Augmented Generation (RAG)</li>
-        <li>⭐ LLM Fine-Tuning</li>
-        <li>⭐ Multi-Agent AI Systems</li>
-        <li>⭐ Personal Portfolio</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>📖 Currently Learning</h3>
-      <ul>
-        <li>Distributed LLM Training</li>
-        <li>NVIDIA GPU Optimization</li>
-        <li>Advanced PyTorch</li>
-        <li>MLOps</li>
-        <li>AI Infrastructure</li>
-        <li>Scalable AI Deployment</li>
-      </ul>
-    </td>
-  </tr>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><h3>📂 Featured Projects</h3></th>
+      <th width="50%" align="center"><h3>📖 Currently Learning</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" align="center">
+        <br>
+        ⭐ Retrieval-Augmented Generation (RAG)<br>
+        ⭐ LLM Fine-Tuning<br>
+        ⭐ Multi-Agent AI Systems<br>
+        <br><br>
+      </td>
+      <td valign="top" align="center">
+        <br>
+        Distributed LLM Training<br>
+        NVIDIA GPU Optimization<br>
+        Advanced PyTorch<br>
+        MLOps<br>
+        AI Infrastructure<br>
+        Scalable AI Deployment
+        <br><br>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>🤝 Open To</h3>
-      <ul>
-        <li>Open Source Contributions</li>
-        <li>AI Research Collaborations</li>
-        <li>Hackathons</li>
-        <li>Generative AI Projects</li>
-        <li>Full Stack Development</li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>☕ Beyond Coding</h3>
-      <ul>
-        <li>🏋️ Gym</li>
-        <li>♟ Chess</li>
-        <li>📚 Reading AI Research Papers</li>
-        <li>🎨 Exploring New Technologies</li>
-      </ul>
-    </td>
-  </tr>
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th width="50%" align="center"><h3>🤝 Open To</h3></th>
+      <th width="50%" align="center"><h3>☕ Beyond Coding</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top" align="center">
+        <br>
+        Open Source Contributions<br>
+        AI Research Collaborations<br>
+        Hackathons<br>
+        Generative AI Projects<br>
+        Full Stack Development
+        <br><br>
+      </td>
+      <td valign="top" align="center">
+        <br>
+        🏋️ Gym<br>
+        ♟ Chess<br>
+        📚 Reading AI Research Papers<br>
+        🎨 Exploring New Technologies
+        <br><br>
+      </td>
+    </tr>
+  </tbody>
 </table>
 
 ---
