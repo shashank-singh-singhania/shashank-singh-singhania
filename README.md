@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://singhania-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="[https://singhania-portfolio.vercel.app/](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTk4M2x0enRmcDh5MGg3dGp4aWF1bXM5bGNnNnZ6OHAwdWwyY3NzYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/P4t7PCY6I7RHtD5i40/giphy.gif)"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/xinghania"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/shashank-singh-singhania"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="mailto:brockzmr5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
