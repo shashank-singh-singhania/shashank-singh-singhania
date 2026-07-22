@@ -1,132 +1,166 @@
-# Hi there, I'm Shashank Singh 👋
+<h1 align="center">Hi there, I'm Shashank Singh 👋</h1>
 
-::: {align="center"}
-### 🚀 Full-Stack Developer • Generative AI Engineer • AI Enthusiast
+<p align="center">
+  <strong>🚀 Full-Stack Developer • Generative AI Engineer • AI Enthusiast</strong>
+</p>
 
-Building intelligent applications powered by **LLMs, Agentic AI, and
-Modern Web Technologies**
+<p align="center">
+  Building intelligent applications powered by <strong>LLMs, Agentic AI, and Modern Web Technologies</strong>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://singhania-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/xinghania)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/shashank-singh-singhania)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brockzmr5@gmail.com)
-:::
+<p align="center">
+  <a href="https://singhania-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/xinghania"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/shashank-singh-singhania"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="mailto:brockzmr5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
-------------------------------------------------------------------------
+---
 
-# 👨‍💻 About Me
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>👨‍💻 About Me</h3>
+      <p>I'm a <strong>B.Tech CSE (Artificial Intelligence)</strong> student passionate about building real-world AI products rather than just models.</p>
+      <p>My interests span the complete AI engineering stack — from training and fine-tuning language models to deploying scalable AI applications with modern backend technologies.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🚀 Current Focus</h3>
+      <ul>
+        <li>🤖 Agentic AI Systems</li>
+        <li>🧠 Large Language Models (LLMs)</li>
+        <li>🔍 Retrieval-Augmented Generation (RAG)</li>
+        <li>📚 Fine-Tuning & PEFT</li>
+        <li>⚡ FastAPI & AI APIs</li>
+        <li>☁️ Docker • Kubernetes • AWS</li>
+        <li>🔥 Production-ready AI Applications</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-I'm a **B.Tech CSE (Artificial Intelligence)** student passionate about
-building real-world AI products rather than just models.
+---
 
-My interests span the complete AI engineering stack---from training and
-fine-tuning language models to deploying scalable AI applications with
-modern backend technologies.
+<h3>🛠 Tech Stack</h3>
 
-## 🚀 Current Focus
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🤖 AI / Machine Learning</h4>
+      <ul>
+        <li>Python</li>
+        <li>PyTorch</li>
+        <li>Hugging Face</li>
+        <li>LangChain</li>
+        <li>LangGraph</li>
+        <li>OpenAI API</li>
+        <li>NumPy</li>
+        <li>Pandas</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>🌐 Full Stack Development</h4>
+      <ul>
+        <li>React</li>
+        <li>Next.js</li>
+        <li>TypeScript</li>
+        <li>Tailwind CSS</li>
+        <li>Node.js</li>
+        <li>Express.js</li>
+        <li>FastAPI</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h4>🗄 Databases</h4>
+      <ul>
+        <li>PostgreSQL</li>
+        <li>MongoDB</li>
+        <li>MySQL</li>
+        <li>Redis</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h4>☁️ DevOps & Cloud</h4>
+      <ul>
+        <li>Docker</li>
+        <li>Kubernetes</li>
+        <li>AWS</li>
+        <li>Git</li>
+        <li>GitHub Actions</li>
+        <li>Postman</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
--   🤖 Agentic AI Systems
--   🧠 Large Language Models (LLMs)
--   🔍 Retrieval-Augmented Generation (RAG)
--   📚 Fine-Tuning & PEFT
--   ⚡ FastAPI & AI APIs
--   ☁️ Docker • Kubernetes • AWS
--   🔥 Production-ready AI Applications
+---
 
-------------------------------------------------------------------------
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>📂 Featured Projects</h3>
+      <ul>
+        <li>⭐ AI Career Guidance Platform</li>
+        <li>⭐ JEE College Predictor</li>
+        <li>⭐ Retrieval-Augmented Generation (RAG)</li>
+        <li>⭐ LLM Fine-Tuning</li>
+        <li>⭐ Multi-Agent AI Systems</li>
+        <li>⭐ Personal Portfolio</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>📖 Currently Learning</h3>
+      <ul>
+        <li>Distributed LLM Training</li>
+        <li>NVIDIA GPU Optimization</li>
+        <li>Advanced PyTorch</li>
+        <li>MLOps</li>
+        <li>AI Infrastructure</li>
+        <li>Scalable AI Deployment</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-# 🛠 Tech Stack
+---
 
-## 🤖 AI / Machine Learning
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🤝 Open To</h3>
+      <ul>
+        <li>Open Source Contributions</li>
+        <li>AI Research Collaborations</li>
+        <li>Hackathons</li>
+        <li>Generative AI Projects</li>
+        <li>Full Stack Development</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>☕ Beyond Coding</h3>
+      <ul>
+        <li>🏋️ Gym</li>
+        <li>♟ Chess</li>
+        <li>📚 Reading AI Research Papers</li>
+        <li>🎨 Exploring New Technologies</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
--   Python
--   PyTorch
--   Hugging Face
--   LangChain
--   LangGraph
--   OpenAI API
--   NumPy
--   Pandas
+---
 
-## 🌐 Full Stack Development
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashank-singh-singhania&show_icons=true&theme=tokyonight" height="195px" />
+  <img src="https://streak-stats.demolab.com?user=shashank-singh-singhania&theme=tokyonight" height="195px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-singh-singhania&layout=compact&theme=tokyonight" height="195px" />
+</p>
 
--   React
--   Next.js
--   TypeScript
--   Tailwind CSS
--   Node.js
--   Express.js
--   FastAPI
+---
 
-## 🗄 Databases
-
--   PostgreSQL
--   MongoDB
--   MySQL
--   Redis
-
-## ☁️ DevOps & Cloud
-
--   Docker
--   Kubernetes
--   AWS
--   Git
--   GitHub Actions
--   Postman
-
-------------------------------------------------------------------------
-
-# 📂 Featured Projects
-
-⭐ Retrieval-Augmented Generation (RAG)
-
-⭐ LLM Fine-Tuning
-
-⭐ Multi-Agent AI Systems
-
-------------------------------------------------------------------------
-
-# 📖 Currently Learning
-
--   Distributed LLM Training
--   NVIDIA GPU Optimization
--   Advanced PyTorch
--   MLOps
--   AI Infrastructure
--   Scalable AI Deployment
-
-------------------------------------------------------------------------
-
-# 🤝 Open To
-
--   Open Source Contributions
--   AI Research Collaborations
--   Hackathons
--   Generative AI Projects
--   Full Stack Development
-
-------------------------------------------------------------------------
-
-# ☕ Beyond Coding
-
--   🏋️ Gym
--   ♟ Chess
--   📚 Reading AI Research Papers
--   🎨 Exploring New Technologies
-
-------------------------------------------------------------------------
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=shashank-singh-singhania&show_icons=true&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=shashank-singh-singhania&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shashank-singh-singhania&layout=compact&theme=tokyonight)
-
-------------------------------------------------------------------------
-
-## 💡 Quote
-
-> *"Build things that solve real problems, learn continuously, and let
-> your work speak louder than your résumé."*
+<p align="center">
+  💡 <em>"Build things that solve real problems, learn continuously, and let your work speak louder than your résumé."</em>
+</p>
